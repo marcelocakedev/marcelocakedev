@@ -1,4 +1,7 @@
-### Hi there 👋
+# Bem-Vindo(a) 🚀
+- Estou bem animado em começar apublicar coisas que aprendo, nesse espaço. 🚀😎
+- Sou programador de jogos 🎮, com Unity, no entanto, todos os projetos que já trabalhei, estou organizando para colicálos aqui também. 😎
+- Atualmente estou estudando programação para Web, e inicialmente estarei publicando os projetos nessa área aqui. 😉
 
 <!--
 **marcelocakedev/marcelocakedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
