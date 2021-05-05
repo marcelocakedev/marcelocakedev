@@ -1,5 +1,4 @@
 # Bem-Vindo(a) 🚀
-- Estou bem animado em começar apublicar coisas que aprendo, nesse espaço. 🚀😎
 - Sou programador de jogos 🎮, com Unity. 😎
 - Atualmente estou estudando programação para Web. 😉
 
